@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "<h1>Hello Cloud! Lab01 - [Ho Ten] - [MSSV]</h1>"
+    return "<h1>Hello Cloud! Lab01 - [Nguyễn Đặng Khôi Nguyên] - [2324802010305]</h1>"
